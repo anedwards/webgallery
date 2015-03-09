@@ -19,7 +19,7 @@ a, a:active, a:visited {
 
 
 footer {
-  border-top: 1px dotted #999999;
+  border-top: 7px dotted #2EE121;
   clear: both;
   padding: 1em 0;
 }
@@ -31,9 +31,9 @@ footer p {
 }
 
 header {
-  background: #C8C1B7;
+  background: #96C559;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/Skull&Snoopy.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
